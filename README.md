@@ -7,6 +7,8 @@ Tools used in this example are:
 * Webpack
 * Sass
 
+WEB: azapata27.github.io/vanilla-js-spa/
+
 # Installation
 First install dependencies
 ```shell
