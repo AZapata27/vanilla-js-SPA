@@ -1,4 +1,10 @@
+$bg-primary: #3d3d3d;
+$text-color: #000;
+
 body{
-    background-color: grey;
-    color:white
+
+
+
+    background-color: $bg-primary;
+    color: $text-color;
 }
